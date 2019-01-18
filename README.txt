@@ -1,27 +1,27 @@
-Les fichiers hébergé dans cette repository contiennent des projets sur des applications de divers algorithme de Machine Learning.
+Les fichiers hÃ©bergÃ©s dans cette repository contiennent des projets sur des applications de divers algorithme de Machine Learning.
 
-Les datasets utilisées sont hébergées sur le lien suivant : 
+Les datasets utilisÃ©es sont hÃ©bergÃ©es sur le lien suivant : 
 
 https://drive.google.com/open?id=1nZS7fGIUSrks7OAYzXSZKNGa7fEXxccx
 
-Les algos étudiés sont : 
+Les algos Ã©tudiÃ©s sont : 
 
 1. La regression
-- Régression Linéaire Simple
-- Régression Linéaire Multiple
-- Régression Non-Linéaire 
+- RÃ©gression LinÃ©aire Simple
+- RÃ©gression LinÃ©aire Multiple
+- RÃ©gression Non-LinÃ©aire 
 
 2. Classification
 - K plus proche voisins
-- Arbre de décision
-- Régression logistique
-- Machine à vecteur de support
+- Arbre de dÃ©cision
+- RÃ©gression logistique
+- Machine Ã  vecteur de support
 
 3. Regroupement (Clustering)
 - K Moyens
-- Regroupement hiérarchique
+- Regroupement hiÃ©rarchique
 - DBSCAN
 
-4. Système de recommendation
-- Recommendation basée sur le contenu
+4. SystÃ¨me de recommendation
+- Recommendation basÃ©e sur le contenu
 - Filtrage collaboratif
