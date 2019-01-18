@@ -1,0 +1,12 @@
+Algorithmes de regression
+
+Ordinal regression
+Poisson regression
+Fast forest quantile regression
+Linear, Polynomial, Lasso, Stepwise, Ridge regression
+Bayesian linear regression
+Neural network regression
+Decision forest regression
+Boosted decision tree regression
+K-Nearest Neighbors
+
